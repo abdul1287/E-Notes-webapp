@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+.bg-custom {
+	background: #1fa67a; 
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.container-fluid{
+	width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+} 
+
+.foot-panel1{
+	color: white;
+	height: 80px;
+	font-size: 0.9rem;
+	text-align: center;
+}
+
+.pages{
+    padding-top: 25px;
+}
+
+.copyright{
+    padding-top: 5px;
+}
+
+.card-header{
+	background: #1fa67a;                  
+	font-size: 20px;
+	color: #fff;
+	border-radius: 10px;
+}
+
+.footer-set{
+    padding-top: 160px;
+}
